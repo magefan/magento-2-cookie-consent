@@ -1,32 +1,45 @@
-# [Magento 2 Cookie Consent Extension](https://magefan.com/magento-2-cookie-consent) by Magefan
+# [Magento 2 Cookie Consent Extension](https://magefan.com/magento-2-cookie-consent) | GDPR Compliance
 
 <img align="right" width="120" height="120" src="https://cm.magefan.com/catalog/product/cache/28b407cef1668fd0bdd6f36db3e8e2f0/i/c/icon-cookie-consent.jpg">
 
-[Magento 2 Cookie Consent](https://magefan.com/magento-2-cookie-consent) is a solution that informs customers about data collection, collects relevant cookies and stores all of them in one place. It allows you to create as many cookies and cookie groups as you need and provide customers with all the details about them. 
+[Magento 2 Cookie Consent](https://magefan.com/magento-2-cookie-consent) is an extension that helps store owners comply with GDPR, CCPA, and other global data privacy regulations by displaying customizable cookie notice banner in Magento. It lets visitors accept or decline cookies in one click, improving data collection transparency while keeping your Magento 2 store compliant.
 
-Protect your store with Magento 2 Cookie Notice and be transparent about the data collection on your store. Comply with all major data privacy regulations out there. 
+It allows you to create as many cookies and cookie groups as you need and provide customers with all the details about them.
 
 Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
 
-<img align="right" width="120" height="70" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
+<a href="https://magefan.com/blog/join-our-donations"><img  align="right" width="120" height="70" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg"></a>
 
 <a href="https://magefan.com/magento-2-cookie-consent"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a>
+___
+TL;DR:
+Magefan Magento 2 Cookie Consent Extension allows stores to display GDPR/CCPA-compliant cookie notice popups. Fully customizable, lightweight, no coding required, and compatible with all themes.
 
-## Useful Links
-  * [User Guide](https://magefan.com/magento-2-cookie-consent/documentation)
-  * [Change Log](https://magefan.com/magento-2-cookie-consent/change-log)
-  * [FAQs](https://magefan.com/magento-2-cookie-consent#pattr-faq)
+## Why Use Magento Cookie Consent Extension?
+Privacy regulations like GDPR and CCPA require websites to communicate cookie usage in clearly. Non-compliance can result in fines or other legal issues.
 
-## 🇺🇦 Stand with Ukraine! [How can you help?](https://magefan.com/blog/join-our-donations)
-  
-## Benefits
-* Easier cookie collection
-* Customizeable cookie popup messages and buttons
-* Straightforward cookie creation tool
-* Detailed cookie consent logs
-* No complicated setups
+Without a proper cookie notice:
 
-## Features
+* Customers may be unaware of tracking on your store
+* Your store risks non-compliance with global data privacy laws
+* You lose control over consent tracking for analytics, marketing, or third-party scripts
+
+Magento 2 Cookie Consent Extension makes compliance easy by providing a clear, professional notice that your customers can interact with. 
+
+You control which cookies require consent, and all settings are managed directly from the Magento admin panel.
+
+## Features of Magento 2 GDPR Cookie Notice Extension
+
+* GDPR, and CCPA-compliant cookie notice
+* Compliance with Google Consent Mode
+* Geo IP setting for cookie consent message display
+* Cookie consent link for footer or any other place on the website
+* Fully customizable cookie banner text and buttons
+* Accept/decline/accept specific buttons with one-click consent
+* Separate panels for cookie groups and cookies (create and edit)
+* Cookie consent logs for tracking all consents
+
+## Benefits of using the Magento 2 Cookie Consent Extension
 ### Give Your Visitors a Choice
 
 All major data privacy regulations - GDPR, CCPA, LGPD, CNIL - require you to inform visitors about data collection on your store. It is also a great way to earn the trust and loyalty of your customers. 
@@ -85,7 +98,21 @@ Show cookie consent popup for all or only specific countries to personalise the 
   <img width="860" height="428" src="https://cm.magefan.com/wysiwyg/products/magento-cookie-consent-geoip-settings.png">
 </p>
 
-## Demo
+## Frequently Asked Questions About Magento 2 Cookie Consent Extension
+
+### What is the Magento 2 Cookie Consent?
+
+Magento 2 Cookie Consent is an extension that allows Magento stores to display cookie notice banners and manage user cookie consents directly from the admin panel.
+
+### Which cookies require user consent in Magento?
+
+Essential cookies (like cart or login cookies) don’t require consent in Magento. Marketing, analytics, and third-party tracking cookies require visitor consent before you can run them on your Magento store.
+
+### How do I manage cookie consent for multiple store views or languages in Magento?
+
+With Magefan Cookie Consent Extenison for Magento you can configure cookie notice text and cookies for each store view. This ensures that visitors see the correct consent message and cookies in their preferred language and region.
+
+## Magento 2 Cookie Consent Extension Demo
 
 Try out our open demo and if you like our extension **please give us some star on Github ★**
 <table>
