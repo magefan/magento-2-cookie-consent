@@ -2,7 +2,7 @@
 
 <img align="right" width="120" height="120" src="https://cm.magefan.com/catalog/product/cache/28b407cef1668fd0bdd6f36db3e8e2f0/i/c/icon-cookie-consent.jpg">
 
-[Magento 2 Cookie Consent](https://magefan.com/magento-2-cookie-consent) is an extension that helps store owners comply with GDPR, CCPA, and other global data privacy regulations by displaying customizable cookie notice banner in Magento. It lets visitors accept or decline cookies in one click, improving data collection transparency while keeping your Magento 2 store compliant.
+Magefan [Magento 2 Cookie Consent](https://magefan.com/magento-2-cookie-consent) is an extension that helps store owners comply with GDPR, CCPA, and other global data privacy regulations by displaying customizable cookie notice banner in Magento. It lets visitors accept or decline cookies in one click, improving data collection transparency while keeping your Magento 2 store compliant.
 
 It allows you to create as many cookies and cookie groups as you need and provide customers with all the details about them.
 
@@ -28,7 +28,7 @@ Magento 2 Cookie Consent Extension makes compliance easy by providing a clear, p
 
 You control which cookies require consent, and all settings are managed directly from the Magento admin panel.
 
-## Features of Magento 2 GDPR Cookie Notice Extension
+## Features of Magento 2 GDPR Cookie Notice Extension by Magefan
 
 * GDPR, and CCPA-compliant cookie notice
 * Compliance with Google Consent Mode
@@ -90,7 +90,7 @@ Track all customer and guest cookies in one place and filter them by various val
 
 Different data privacy regulations work in different locations. If you want to comply with only a few of them, you don’t have to enable a cookie consent popup for everyone. 
 
-That’s why Magento 2 Cookie Consent Extension offers you the GeoIP detection option.
+That’s why Magefan Magento 2 Cookie Consent Extension offers you the GeoIP detection option.
 
 Show cookie consent popup for all or only specific countries to personalise the customer experience. 
 
