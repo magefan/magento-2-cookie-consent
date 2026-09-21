@@ -1,4 +1,4 @@
-# [Magento 2 Cookie Consent Extension](https://magefan.com/magento-2-cookie-consent) | GDPR Compliance
+# [Magento 2 Cookie Consent Extension](https://magefan.com/magento-2-cookie-consent) by Magefan
 
 <img align="right" width="120" height="120" src="https://cm.magefan.com/catalog/product/cache/28b407cef1668fd0bdd6f36db3e8e2f0/i/c/icon-cookie-consent.jpg">
 
